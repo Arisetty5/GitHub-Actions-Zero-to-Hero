@@ -1,6 +1,6 @@
 # app.py
 # This one is a test commit
-# I made this to test
+# I made this to test if actions work or not
 def add(a, b):
     return a + b
 
